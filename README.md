@@ -357,6 +357,23 @@ response = client.messages.create(
 
 See the [Skills API documentation](https://docs.claude.com/en/api/skills-guide) for details.
 
+## Personal Skill Harvester
+
+If you're working across several of your own repos in one Claude Code
+environment, `skills-harvest/SKILL.md` in this repo scans every sibling
+repo cloned alongside it for git-tracked `SKILL.md` files, safety-scans
+anything new, and installs the clean ones into `~/.claude/skills/` so
+they're available in every session — not just the repo they live in.
+
+```sh
+bash skills-harvest/harvest.sh   # discover + diff against skills-harvest/state.json
+```
+
+Ask your agent to "harvest my skills" instead of running the steps by
+hand — see `skills-harvest/SKILL.md` for the full procedure, including
+what it deliberately excludes (this repo's vendored `composio-skills/`
+catalog) and how it decides what's new vs. changed vs. removed.
+
 ## Creating Skills
 
 ### Skill Structure
