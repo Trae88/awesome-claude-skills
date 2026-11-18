@@ -1,0 +1,398 @@
+[
+    {
+        "repo": "awesome-claude-skills",
+        "path": "artifacts-builder/SKILL.md",
+        "name": "artifacts-builder",
+        "hash": "3ed3524e654c71ed22ee448ab880d4d4e6b52080cedf75f5f343bda5f3daa703"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "brand-guidelines/SKILL.md",
+        "name": "brand-guidelines",
+        "hash": "1d40d0f3885d2a839588a3e29d42a40b02bcd037ee025c9c13a518df34d39995"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "canvas-design/SKILL.md",
+        "name": "canvas-design",
+        "hash": "7a0eaafb62aa0f8c374a004f92f2823c95d98fee64816b92954cda747bfcc28c"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "changelog-generator/SKILL.md",
+        "name": "changelog-generator",
+        "hash": "ce13e3f6ea834e01aaeffdf354db2b5c204f9b1e37e429ac452599c6f7a1e13e"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "competitive-ads-extractor/SKILL.md",
+        "name": "competitive-ads-extractor",
+        "hash": "37d2c9f0a005f05842d1330b978046b84055d92eb29a9468d1b53f428735abdc"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "connect-apps/SKILL.md",
+        "name": "connect-apps",
+        "hash": "5f1524b868b321fd9c153b618267a5526e7316d5aacdab8c40aa58c6402d28c5"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "connect/SKILL.md",
+        "name": "connect",
+        "hash": "a71f6f4db2363b99a479f6c507c532ae1bbed7eca9a8ae64ac0eb22f7d963228"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "content-research-writer/SKILL.md",
+        "name": "content-research-writer",
+        "hash": "1db168371a4e95c95e1ebd8eb09b43b85c1c045b98deb19c2cdad288560559e3"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "developer-growth-analysis/SKILL.md",
+        "name": "developer-growth-analysis",
+        "hash": "011981c65d06709a79227892916a2157152999da7d2b448d8433aab00d7ec7ef"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "document-skills/docx/SKILL.md",
+        "name": "docx",
+        "hash": "a7a0889ddf759a43cd2b882943f1bc805c245ac6d0be50d8d95066ba244cdf70"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "document-skills/pdf/SKILL.md",
+        "name": "pdf",
+        "hash": "1b9b921122adc532b8248e06221498cc1513d3530a0a7d9548110731a9ceabb3"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "document-skills/pptx/SKILL.md",
+        "name": "pptx",
+        "hash": "e5b45d2f790d9599b68036c37a66b3be08ec48d45c29db8ab8ce8b71927bc2ff"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "document-skills/xlsx/SKILL.md",
+        "name": "xlsx",
+        "hash": "fc4988f61f8762580ec7737089e0d8d4368efaf4fcee13a09ab953e125c82e37"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "domain-name-brainstormer/SKILL.md",
+        "name": "domain-name-brainstormer",
+        "hash": "97c86676872e56e414dcb6ff8ee05f3ee4539279079e2a6fd27fcd406f72d6ff"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "file-organizer/SKILL.md",
+        "name": "file-organizer",
+        "hash": "f41be619574773ad96b17b68ae4ff6401f857f49d6eb4de7d3b87c98a376cc84"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "image-enhancer/SKILL.md",
+        "name": "image-enhancer",
+        "hash": "ed7f00e270a98d0064e72124e9d2755ee8db3c47958296a87fe17e3388d4cc6c"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "internal-comms/SKILL.md",
+        "name": "internal-comms",
+        "hash": "c7bffcee7cc2e6cc20c31c1efc9899629d6d59121c0b6c12e31a08322854637c"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "invoice-organizer/SKILL.md",
+        "name": "invoice-organizer",
+        "hash": "17eb56c3d3a015599cfc433b98dca4693ae2f1ae10292379bd907abbec5f9aa1"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "langsmith-fetch/SKILL.md",
+        "name": "langsmith-fetch",
+        "hash": "fa6201d48f92aeaea114d074852d3d8a6a8575fb486b6a1751b8daf45c91d0d3"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "lead-research-assistant/SKILL.md",
+        "name": "lead-research-assistant",
+        "hash": "0e8d58ff65ceb07705b3740611a04293bf968a403b2608931beb51cbb7ad06c1"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "mcp-builder/SKILL.md",
+        "name": "mcp-builder",
+        "hash": "9c013dbb2f4ec0231a8b88bf5ff964767855ad37efa975711bc703b0e5820629"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "meeting-insights-analyzer/SKILL.md",
+        "name": "meeting-insights-analyzer",
+        "hash": "68360d10171bbbfec44e9e3430885f8202032793ff21757c841a6adffc22bfd4"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "raffle-winner-picker/SKILL.md",
+        "name": "raffle-winner-picker",
+        "hash": "6730c8340b5f180b633ad406438c0d7a4cf07c758b69e065affe72ea2849e3a7"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "skill-creator/SKILL.md",
+        "name": "skill-creator",
+        "hash": "b2184e110b373c2ee479ee91aba2f1fe8737202c584df1bc1c5279b49711133b"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "skill-share/SKILL.md",
+        "name": "skill-share",
+        "hash": "942db3eedccd2ccc4886e53a0bba526aa6a68012ba719d0a00c58a9f7881393c"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "slack-gif-creator/SKILL.md",
+        "name": "slack-gif-creator",
+        "hash": "552b7b311ed083c75b10da5f3ed629bbf730f6c9a2214d0efc98a9c97adbabf1"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "tailored-resume-generator/SKILL.md",
+        "name": "tailored-resume-generator",
+        "hash": "9fe86d2d7711b89e848b086211e19d50a22bcc7d2ecb2e580560f3b89370d6ed"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "template-skill/SKILL.md",
+        "name": "template-skill",
+        "hash": "d66f27cdd2a2f206db0b8d5aa712c36fbf477918601ff8971020e4c4bd6ff41b"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "theme-factory/SKILL.md",
+        "name": "theme-factory",
+        "hash": "accb2b44c5f37a8cf98386eb8c78bd0cf0f86656b095377736df25ca23268ad9"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "twitter-algorithm-optimizer/SKILL.md",
+        "name": "twitter-algorithm-optimizer",
+        "hash": "904364ffb5aebc2a5ceb9b547623c1c3e6d7f16fb18d2d31e6841e092dd6c22d"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "video-downloader/SKILL.md",
+        "name": "video-downloader",
+        "hash": "776e4009fdda226f37a23bb34a967dc4cfad8c5a19963d7b3c8fb6bdab4e910b"
+    },
+    {
+        "repo": "awesome-claude-skills",
+        "path": "webapp-testing/SKILL.md",
+        "name": "webapp-testing",
+        "hash": "2e353a1ff3dfdfc2c63eecd8d189c7955273493c4d56a4ff4033c85438ca08ef"
+    },
+    {
+        "repo": "claude-council",
+        "path": "claude-council-workspace/skill-wrapper/SKILL.md",
+        "name": "skill-wrapper",
+        "hash": "bc930622d9398a41df65b4c2fc1e492066c7a17cb70878e9fb84350fad957c42"
+    },
+    {
+        "repo": "claude-council",
+        "path": "skills/council-execution/SKILL.md",
+        "name": "council-execution",
+        "hash": "b65f57832e4d183a55f35e81b99286a4b11b2f143dad6b14764d6079710e81cb"
+    },
+    {
+        "repo": "claude-council",
+        "path": "skills/deep-execution/SKILL.md",
+        "name": "deep-execution",
+        "hash": "28678d5b918f057934edd3353fc8b98803cc019588bfb9e6c6ee1c949186f269"
+    },
+    {
+        "repo": "claude-council",
+        "path": "skills/provider-integration/SKILL.md",
+        "name": "provider-integration",
+        "hash": "aa118614be39f1f401bc7f23a497aca473ddab7021def0382ccfeddf146b2d53"
+    },
+    {
+        "repo": "odysseus",
+        "path": "integrations/claude/skills/odysseus/SKILL.md",
+        "name": "odysseus",
+        "hash": "772ecab9eed7a9ed744075d79b96687e66e28bb10e5e00192beb6a03ac120e84"
+    },
+    {
+        "repo": "odysseus",
+        "path": "integrations/codex/skills/odysseus/SKILL.md",
+        "name": "odysseus",
+        "hash": "a52b815b3915fc3583070e6a6ca8d11f94de3b20822d0009ad025ef8b909db6a"
+    },
+    {
+        "repo": "pagecast",
+        "path": ".codex/skills/publish-report/SKILL.md",
+        "name": "publish-report",
+        "hash": "c0b59997c95edc0b46cdad34e379f6d5af7794397d5e0a1283538bc8fe98e6fa"
+    },
+    {
+        "repo": "pagecast",
+        "path": "plugin/skills/publish-report/SKILL.md",
+        "name": "publish-report",
+        "hash": "bd3b1a3b415b77b2651fd14ffaf12c726e5a1fe1f241d8115434eea355e4f2e7"
+    },
+    {
+        "repo": "pagecast",
+        "path": "skills/skills-reap/SKILL.md",
+        "name": "skills-reap",
+        "hash": "8a02222d3eb73643740e7f6cf7012a246b64b3bd43da70faa0420757c3610187"
+    },
+    {
+        "repo": "prompts.chat",
+        "path": ".windsurf/skills/book-translation/SKILL.md",
+        "name": "book-translation",
+        "hash": "efb02cdb32d929f1a5c85cb4db9d2954b95e72446ba026c555a4904a395ee8dd"
+    },
+    {
+        "repo": "prompts.chat",
+        "path": ".windsurf/skills/widget-generator/SKILL.md",
+        "name": "widget-generator",
+        "hash": "5dab5138a676ec33703fa336fa9621eaea78ec00d31d5eeb751feee99eafd2d2"
+    },
+    {
+        "repo": "prompts.chat",
+        "path": "plugins/claude/prompts.chat/skills/prompt-lookup/SKILL.md",
+        "name": "prompt-lookup",
+        "hash": "57ec3466e109ab7831ab27dd1f64343332a55d9773d98e4a18fd61f9e6eabf3f"
+    },
+    {
+        "repo": "prompts.chat",
+        "path": "plugins/claude/prompts.chat/skills/skill-lookup/SKILL.md",
+        "name": "skill-lookup",
+        "hash": "fe10ce3e2c51f6170930b3f2481d42ee15d1f04bfe4c97422b15c8de278fbb0a"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-build/skills/react-components/SKILL.md",
+        "name": "react-components",
+        "hash": "0a60ddad85d03d32c4af4470d6692661af5e7f1e7d8dab4d0ddaa72dc3b8afba"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-build/skills/react-native/SKILL.md",
+        "name": "react-native",
+        "hash": "060526276d2603b96474cf5f16caab316e192309fa3a47b23aa098b611e4d885"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-build/skills/remotion/SKILL.md",
+        "name": "remotion",
+        "hash": "ce6a4839e5483599d40ada656649ef6a5791664b5896ee7d03f409e55e06fe9c"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-build/skills/shadcn-ui/SKILL.md",
+        "name": "shadcn-ui",
+        "hash": "4bf14ac7dec7ef4a9d91d416f00419d7ffa4ee1bbca45d24dd0dec144ddba85f"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/code-to-design/SKILL.md",
+        "name": "code-to-design",
+        "hash": "ab68a0befc163e6bfb8f4df8522f6b0fef45b84190ac522f2cf8386a530d8891"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/extract-design-md/SKILL.md",
+        "name": "extract-design-md",
+        "hash": "bf5d420645cdc74c6a975131957dde9a4fe4484513f01d2036d7df2e86db4e57"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/extract-static-html/SKILL.md",
+        "name": "extract-static-html",
+        "hash": "6864f43df49aa83e919c1443f351ae9b20f1f526a297842985baef45fa6730ba"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/generate-design/SKILL.md",
+        "name": "generate-design",
+        "hash": "53f4512318a6d5009e73ad05b127d94b731a8f11c108041aeed460e517bd184d"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/manage-design-system/SKILL.md",
+        "name": "manage-design-system",
+        "hash": "434187932fc8cf8e776988830376a3d8730c3f9c4c1722d0e9d7f133caeed098"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-design/skills/upload-to-stitch/SKILL.md",
+        "name": "upload-to-stitch",
+        "hash": "379ba663dbdc7b4ed9026433e182d19c9a0801d65dd9d27253fbb5fd938990be"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-utilities/skills/design-md/SKILL.md",
+        "name": "design-md",
+        "hash": "605982ae18f6dfe797570ae01c27a37a31564ead55d49a43f8a6da4044f2802f"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-utilities/skills/enhance-prompt/SKILL.md",
+        "name": "enhance-prompt",
+        "hash": "873ac5880df85c55af9f474e5a76768753a965e4e09a0400f9c5e28ceaedf270"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-utilities/skills/stitch-loop/SKILL.md",
+        "name": "stitch-loop",
+        "hash": "d2257ff107f881962e31f07416ef2bf892fdba173ee930b8a766f34cdc5be1db"
+    },
+    {
+        "repo": "stitch-skills",
+        "path": "plugins/stitch-utilities/skills/taste-design/SKILL.md",
+        "name": "taste-design",
+        "hash": "1b653a473e2fef61d72ed9a11dc0ae5d70ac2d33e56bfdc7320d6627af6df123"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/banner-design/SKILL.md",
+        "name": "banner-design",
+        "hash": "5f080086c9e9f9fe1e95f49813d0cf7645bce2912305d11d26051a5737f6c73c"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/brand/SKILL.md",
+        "name": "brand",
+        "hash": "655f28f25e2d1464eff541ddfc1e22fb09061e9edfe3193ea69ab61118ed874e"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/design-system/SKILL.md",
+        "name": "design-system",
+        "hash": "1a1817d94c469feaa43d4cbe88cc8b1f7726325cdc81a28e93d33b16c58fb377"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/design/SKILL.md",
+        "name": "design",
+        "hash": "660c669ba638e08cde6ad339206a8d36bb935251d097684f6a927b6ac188acaa"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/slides/SKILL.md",
+        "name": "slides",
+        "hash": "9febdb081689e90b7dff4cc8ab293329d4aab58d227de02bfd58a3c4d9ed2037"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/ui-styling/SKILL.md",
+        "name": "ui-styling",
+        "hash": "e5f48f87f37c2f79a831ff43156f87658fa4061cd74b65aac1f07f990fa2727e"
+    },
+    {
+        "repo": "ui-ux-pro-max-skill",
+        "path": ".claude/skills/ui-ux-pro-max/SKILL.md",
+        "name": "ui-ux-pro-max",
+        "hash": "573b7df2c2e912be3cc73cb5ad62d2fd0301742a9fbc4e411377d343a355ad1c"
+    }
+]
